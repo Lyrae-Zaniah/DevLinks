@@ -18,7 +18,7 @@ Programa exclusivo para ser meu Portifólio. <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="projeto DevLinks" src="./assets/screenshot.PNG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
